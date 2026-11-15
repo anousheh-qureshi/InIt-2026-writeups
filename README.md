@@ -52,7 +52,7 @@ flowchart LR
     M --> M1["The Last Announcement · 200"]
     M --> M2["The Troll's Ticket · 200"]
     M --> M3["Weird Sound · 100"]
-    M --> M4["Camera Lost & Found · 100"]
+    M --> M4["Camera Lost and Found · 100"]
     M --> M5["hidden giveaway · 100"]
     M --> M6["Beepy · 100"]
 
@@ -181,26 +181,26 @@ CTF-Writeups/
 ```mermaid
 timeline
     title Solve order
-    6:01 PM : Two Layers
-    6:02 PM : Le Chiffre
-    6:03 PM : deleted evidence
-    6:04 PM : Locked Notes : Known Plaintext PRNG
-    6:05 PM : ec2-dropper
-    6:07 PM : keychain-crumbs
-    6:09 PM : Where Am I? : Beepy
-    6:14 PM : Super Cookie
-    6:18 PM : Cash Now
-    6:24 PM : hidden giveaway : Red John's Footprints
-    6:59 PM : The Careless Twins
-    7:42 PM : The Troll's Ticket
-    8:14 PM : Camera Lost & Found
-    8:20 PM : Second
-    9:00 PM : leaky history
-    9:06 PM : The Last Announcement
-    9:19 PM : Not to Soon
-    10:06 PM : The Fractured Key
-    10:07 PM : Super Blind
-    11:39 PM : Weird Sound
+    6.01 PM : Two Layers
+    6.02 PM : Le Chiffre
+    6.03 PM : deleted evidence
+    6.04 PM : Locked Notes : Known Plaintext PRNG
+    6.05 PM : ec2-dropper
+    6.07 PM : keychain-crumbs
+    6.09 PM : Where Am I? : Beepy
+    6.14 PM : Super Cookie
+    6.18 PM : Cash Now
+    6.24 PM : hidden giveaway : Red John's Footprints
+    6.59 PM : The Careless Twins
+    7.42 PM : The Troll's Ticket
+    8.14 PM : Camera Lost and Found
+    8.20 PM : Second
+    9.00 PM : leaky history
+    9.06 PM : The Last Announcement
+    9.19 PM : Not to Soon
+    10.06 PM : The Fractured Key
+    10.07 PM : Super Blind
+    11.39 PM : Weird Sound
 ```
 
 ---
