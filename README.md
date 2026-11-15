@@ -9,7 +9,7 @@
 
 | Member | Role | Score |
 |---|---|:---:|
-| aelitorse | 👑 Captain | 900 |
+| aelitorse | Captain | 900 |
 | holocynth | Member | 900 |
 | skychaser | Member | 700 |
 | z3r0grav1ty | Member | 1150 |
