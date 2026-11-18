@@ -9,10 +9,10 @@
 
 | Member | Role | Score |
 |---|---|:---:|
-| aelitorse | Captain | 900 |
-| holocynth | Member | 900 |
-| skychaser | Member | 700 |
-| z3r0grav1ty | Member | 1150 |
+| [aelitorse](https://github.com/AERAFROUF) | Captain | 900 |
+| [holocynth](github.com/holocynth) | Member | 900 |
+| [skychaser](github.com/skychaser) | Member | 700 |
+| [z3r0grav1ty](github.com/z3r0grav1ty) | Member | 1150 |
 
 ---
 
